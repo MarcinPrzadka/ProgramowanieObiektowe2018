@@ -1,1 +1,2 @@
 Imię, Nazwisko, adres repozytorium
+Marcin Prządka https://github.com/MarcinPrzadka/CubeX2000
